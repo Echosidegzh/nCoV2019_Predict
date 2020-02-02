@@ -6,7 +6,7 @@
 
 #### 软件架构
 1. 用.Net开发的Windows桌面软件
-2. 数据获取自腾讯 https://news.qq.com//zt2020/page/feiyan.htm
+2. 数据实时的获取自腾讯 https://news.qq.com//zt2020/page/feiyan.htm
 3. 通过曲线拟合预测未来疫情数据，和天气预报一样，只在短期内有一定参考意义。实际疫情肯定会在达到一定峰值后回落。
 
 
