@@ -2,6 +2,7 @@
 
 #### 介绍
 武汉肺炎疫情预测
+代码主要更新在 https://gitee.com/fenge21/nCoV2019_Predict
 ![Image](ncov.png)
 
 #### 软件架构
